@@ -5,3 +5,5 @@ conflito teste 00
 
 conflito 01
 merge zuado
+
+agora simte breancj teste1conflit
