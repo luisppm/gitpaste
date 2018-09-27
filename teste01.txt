@@ -1,3 +1,9 @@
-Teste de node 1
+﻿Teste de node 1
 Alteraç~ao 02
+
+conflito teste 00
+
 conflito 01
+merge zuado
+
+agora simte breancj teste
