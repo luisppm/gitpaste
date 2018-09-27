@@ -1,2 +1,3 @@
 Teste de node 1
 Alteraç~ao 02
+conflito teste 00
