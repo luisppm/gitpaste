@@ -1,3 +1,7 @@
 Teste de node 1
 Alteraç~ao 02
+<<<<<<< HEAD
 conflito teste 00
+=======
+conflito 01
+>>>>>>> 38626dd619d0e82debf0279979a01f0c30c28b71
